@@ -1,0 +1,14 @@
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\CSharp_Algorithm_Exercise\Plus Minus\obj\Debug\net7.0\Plus Minus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\CSharp_Algorithm_Exercise\Plus Minus\obj\Debug\net7.0\Plus Minus.AssemblyInfoInputs.cache
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\CSharp_Algorithm_Exercise\Plus Minus\obj\Debug\net7.0\Plus Minus.AssemblyInfo.cs
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\CSharp_Algorithm_Exercise\Plus Minus\obj\Debug\net7.0\Plus Minus.csproj.CoreCompileInputs.cache
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\CSharp_Algorithm_Exercise\Plus Minus\bin\Debug\net7.0\Plus Minus.exe
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\CSharp_Algorithm_Exercise\Plus Minus\bin\Debug\net7.0\Plus Minus.deps.json
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\CSharp_Algorithm_Exercise\Plus Minus\bin\Debug\net7.0\Plus Minus.runtimeconfig.json
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\CSharp_Algorithm_Exercise\Plus Minus\bin\Debug\net7.0\Plus Minus.dll
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\CSharp_Algorithm_Exercise\Plus Minus\bin\Debug\net7.0\Plus Minus.pdb
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\CSharp_Algorithm_Exercise\Plus Minus\obj\Debug\net7.0\Plus Minus.dll
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\CSharp_Algorithm_Exercise\Plus Minus\obj\Debug\net7.0\refint\Plus Minus.dll
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\CSharp_Algorithm_Exercise\Plus Minus\obj\Debug\net7.0\Plus Minus.pdb
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\CSharp_Algorithm_Exercise\Plus Minus\obj\Debug\net7.0\Plus Minus.genruntimeconfig.cache
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\CSharp_Algorithm_Exercise\Plus Minus\obj\Debug\net7.0\ref\Plus Minus.dll
