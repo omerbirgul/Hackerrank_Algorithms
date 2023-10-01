@@ -1,0 +1,14 @@
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\CSharp_Algorithm_Exercise\FizzBuzz\bin\Debug\net7.0\FizzBuzz.exe
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\CSharp_Algorithm_Exercise\FizzBuzz\bin\Debug\net7.0\FizzBuzz.deps.json
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\CSharp_Algorithm_Exercise\FizzBuzz\bin\Debug\net7.0\FizzBuzz.runtimeconfig.json
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\CSharp_Algorithm_Exercise\FizzBuzz\bin\Debug\net7.0\FizzBuzz.dll
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\CSharp_Algorithm_Exercise\FizzBuzz\bin\Debug\net7.0\FizzBuzz.pdb
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\CSharp_Algorithm_Exercise\FizzBuzz\obj\Debug\net7.0\FizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\CSharp_Algorithm_Exercise\FizzBuzz\obj\Debug\net7.0\FizzBuzz.AssemblyInfoInputs.cache
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\CSharp_Algorithm_Exercise\FizzBuzz\obj\Debug\net7.0\FizzBuzz.AssemblyInfo.cs
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\CSharp_Algorithm_Exercise\FizzBuzz\obj\Debug\net7.0\FizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\CSharp_Algorithm_Exercise\FizzBuzz\obj\Debug\net7.0\FizzBuzz.dll
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\CSharp_Algorithm_Exercise\FizzBuzz\obj\Debug\net7.0\refint\FizzBuzz.dll
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\CSharp_Algorithm_Exercise\FizzBuzz\obj\Debug\net7.0\FizzBuzz.pdb
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\CSharp_Algorithm_Exercise\FizzBuzz\obj\Debug\net7.0\FizzBuzz.genruntimeconfig.cache
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\CSharp_Algorithm_Exercise\FizzBuzz\obj\Debug\net7.0\ref\FizzBuzz.dll
