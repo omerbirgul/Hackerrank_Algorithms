@@ -20,6 +20,11 @@ class Result
         int count = 0;
         
         for(int i = 0; i <= s.Count - m; i++)
+			/*
+				i bize alt dizinin başlangıç noktasını temsil eder ve bu alt dizinin boyutunu
+				aşmamasını kontrol eder. Alt dizinin sonuna çok yakın bir index seçilirse,
+				m uzunluğunda bir alt dizin oluşturulamaz. 
+			 */
         {
             int sum = 0;
             for(int j = 0; j < m; j++)
