@@ -5,4 +5,6 @@
 | 0003 | [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem) | [plusMinus.cs](./algorithms/03_Plus_Minus/Program.cs) |
 | 0004 | [Fizz Buzz](https://www.hackerrank.com/challenges/fizzbuzz/problem) | [fizzBuzz.cs](./algorithms/04_FizzBuzz/Program.cs) |
 | 0005 | [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem) | [simpleArraySum.cs](./algorithms/05_Simple_Array_Sum/simpleArraySum.cs) |
+| 0006 | [Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem) | [veryBigSum.cs](./algorithms/06_Very_Big_Sum/aVeryBigSum.cs) |
+| 0007 | [Mini Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem) | [miniMaxSum.cs](./algorithms/07_Mini_Max_Sum/miniMaxSum.cs) |
 | 0033 | [Subarray Division](https://www.hackerrank.com/challenges/the-birthday-bar/problem) | [subarrayDivision.cs](./algorithms/33_Subarray_Division/subarrayDivision.cs) |

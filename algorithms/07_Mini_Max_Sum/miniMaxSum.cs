@@ -23,22 +23,14 @@ class Result
 
     public static void miniMaxSum(List<int> arr)
     {
-      arr.Sort();
-      long minSum = 0;
-      long maxSum = 0;
-      
-      for(int i =0; i <4; i++){
-        minSum += arr[i];
-      }
-      arr.Reverse();
-      for(int j =0; j <4; j++){
-        maxSum += arr[j];
-      }
-      
-      Console.WriteLine($"{minSum} {maxSum}");
-      
-      
-
+        long sum= 0;
+        long max= arr.Max();
+        long min = arr.Min();
+        for(int i =0; i <5; i++)
+        {
+            sum += arr[i];
+        }
+        Console.WriteLine($"{sum - max} {sum - min}");
     }
 
 }
