@@ -11,4 +11,5 @@
 | 0009 | [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) | [birthdayCakeCandles.cs](./algorithms/09_Birthday_Cake_Candles/birthdayCakeCandles.cs) |
 | 0010 | [Grading Students](https://www.hackerrank.com/challenges/grading/problem) | [gradingStudents.cs](./algorithms/10_Grading_Students/gradingStudents.cs) |
 | 0033 | [Subarray Division](https://www.hackerrank.com/challenges/the-birthday-bar/problem) | [subarrayDivision.cs](./algorithms/33_Subarray_Division/subarrayDivision.cs) |
-| 0033 | [Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem) | [migratoryBirds.cs](./algorithms/34_Migratory_Birds/migratoryBirds.cs) |
+| 0034 | [Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem) | [migratoryBirds.cs](./algorithms/34_Migratory_Birds/migratoryBirds.cs) |
+| 0035 | [Jumping On The Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem) | [jumpingOnTheClouds.cs](./algorithms/35_Jumping_OnThe_Clouds/jumpingOnTheClouds.cs) |
