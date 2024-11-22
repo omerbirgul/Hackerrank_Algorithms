@@ -24,26 +24,21 @@ class Result
 
     public static string timeConversion(string s)
     {
-        string[] saatArray = s.Split(':');
-        int saat = int.Parse(saatArray[0]);
-        string dakika = saatArray[1];
-        string saniye = saatArray[2];
-        string yeniSaniye = saniye.Substring(0,saniye.Length - 2);
-        
-        if(saniye.Contains("PM")){
-            if(saat != 12){
-                saat += 12;
-            }
-        }else{
-            if(saat == 12){
-                saat = 0;
-            }
-        }
-        string yeniSaat = saat.ToString("00");
-        return ($"{yeniSaat}:{dakika}:{yeniSaniye}");
-        
-        
+        String[] timeArray = s.Split(':');
+        int hour = int.Parse(timeArray[0]);
+        string minute = timeArray[1];
+        string second = timeArray[2];
+        string newSecond = second.Substring(0, second.Length - 2);
 
+        if(second.Contains("AM") && hour == 12)
+        {
+            hour = 0;
+        }
+        
+        if(second.Contains("PM") && hour != 12){
+            hour += 12;
+        }
+        return ($"{hour:00}:{minute}:{newSecond}");
     }
 
 }
