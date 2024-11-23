@@ -10,7 +10,8 @@
 | 0008 | [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem) | [diagonalDifference.cs](./algorithms/08_Diagonal_Difference/diagonalDifference.cs) |
 | 0009 | [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) | [birthdayCakeCandles.cs](./algorithms/09_Birthday_Cake_Candles/birthdayCakeCandles.cs) |
 | 0010 | [Grading Students](https://www.hackerrank.com/challenges/grading/problem) | [gradingStudents.cs](./algorithms/10_Grading_Students/gradingStudents.cs) |
-| 0032 | [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem) | [timeConversion.cs](./algorithms/10_Grading_Students/timeConversion.cs) |
+| 0031 | [Angry Professor](https://www.hackerrank.com/challenges/time-conversion/problem) | [angryProfessor.cs](./algorithms/31_Angry_Professor/angryProfessor.cs) |
+| 0032 | [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem) | [timeConversion.cs](./algorithms/32_Time_Conversion/timeConversion.cs) |
 | 0033 | [Subarray Division](https://www.hackerrank.com/challenges/the-birthday-bar/problem) | [subarrayDivision.cs](./algorithms/33_Subarray_Division/subarrayDivision.cs) |
 | 0034 | [Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem) | [migratoryBirds.cs](./algorithms/34_Migratory_Birds/migratoryBirds.cs) |
 | 0035 | [Jumping On The Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem) | [jumpingOnTheClouds.cs](./algorithms/35_Jumping_OnThe_Clouds/jumpingOnTheClouds.cs) |

@@ -24,25 +24,13 @@ class Result
      *  2. INTEGER_ARRAY a
      */
 
-    public static string angryProfessor(int k, List<int> a)
+     public static string angryProfessor(int k, List<int> a)
     {
-        int onTimeCount = 0;
-        foreach(int arrivalTime in a )
-        {
-            if(arrivalTime <= 0)
-            {
-                onTimeCount++;
-            } 
+        int onTimeStudents = 0;
+        foreach(var arriveTime in a){
+            if(arriveTime <= 0) onTimeStudents++;
         }
-        if(onTimeCount >= k)
-        {
-            return "NO";
-        }
-        else
-        {
-            return "YES";
-        }
-
+        return (onTimeStudents >= k ? "NO" : "YES");
     }
 
 }
