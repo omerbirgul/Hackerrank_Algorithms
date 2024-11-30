@@ -27,17 +27,9 @@ class Result
     public static void bonAppetit(List<int> bill, int k, int b)
     {
         bill.RemoveAt(k);
-        int sum = 0;
-        foreach(int item in bill){
-            sum += item;
-        }
-        int price = sum / 2;
-        if(price == b){
-            Console.WriteLine("Bon Appetit");
-        }else{
-            Console.WriteLine(b - price);
-        }
-
+        int perPersonAmount = bill.Sum() / 2;
+        int refundAmount = b - perPersonAmount;
+        Console.WriteLine(refundAmount == 0 ? "Bon Appetit" : refundAmount);
     }
 
 }
