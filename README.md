@@ -11,6 +11,7 @@
 | 0009 | [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) | [birthdayCakeCandles.cs](./algorithms/09_Birthday_Cake_Candles/birthdayCakeCandles.cs) |
 | 0010 | [Grading Students](https://www.hackerrank.com/challenges/grading/problem) | [gradingStudents.cs](./algorithms/10_Grading_Students/gradingStudents.cs) |
 | 0011 | [Grading Students](https://www.hackerrank.com/challenges/bon-appetit/problem) | [billDivision.cs](./algorithms/11_Bill_Division/billDivision.cs) |
+| 0012 | [Beautiful Days At The Movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem) | [beautifulDaysAtTheMovies.cs](./algorithms/12 Beautiful Days at the Movies/beautifulDaysAtTheMovies.cs) |
 | 0031 | [Angry Professor](https://www.hackerrank.com/challenges/angry-professor/problem) | [angryProfessor.cs](./algorithms/31_Angry_Professor/angryProfessor.cs) |
 | 0032 | [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem) | [timeConversion.cs](./algorithms/32_Time_Conversion/timeConversion.cs) |
 | 0033 | [Subarray Division](https://www.hackerrank.com/challenges/the-birthday-bar/problem) | [subarrayDivision.cs](./algorithms/33_Subarray_Division/subarrayDivision.cs) |

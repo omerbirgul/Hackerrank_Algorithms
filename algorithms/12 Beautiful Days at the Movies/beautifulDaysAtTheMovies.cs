@@ -27,32 +27,18 @@ class Result
 
     public static int beautifulDays(int i, int j, int k)
     {
-        int result = 0;
-        for(int startNum = i; startNum <= j; startNum++ )
+        int count = 0;
+        for(int s = i; s <= j; s++)
         {
-            if(Math.Abs(startNum - TersiniAl(startNum)) % k == 0)
-            {
-                result++;
-            }   
-        } 
-        return result;   
-    }
-        
-        
-    public static int TersiniAl(int sayi)
-    {
-        int tersSayi = 0;
-
-        while (sayi > 0)
-        {
-            int sonBasamak = sayi % 10; 
-            tersSayi = (tersSayi * 10) + sonBasamak; 
-            sayi /= 10; 
+            string value = s.ToString();
+            string reversedValue = new string(value.Reverse().ToArray());
+            int reversedIntValue = int.Parse(reversedValue);
+            int absoluteValue = Math.Abs(s - reversedIntValue);
+            if(absoluteValue % k == 0) count++;
         }
-
-        return tersSayi;
+        return count;
     }
-    
+
 }
 
 class Solution
