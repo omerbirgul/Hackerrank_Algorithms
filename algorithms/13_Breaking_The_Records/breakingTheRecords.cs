@@ -24,28 +24,26 @@ class Result
 
     public static List<int> breakingRecords(List<int> scores)
     {
-        int recordMost = 0;
-        int recordLeast = 0;
-        int highestScore = scores[0];
-        int lowestScore = scores[0];
+        int maxScore = scores[0];
+        int minScore = scores[0];
         
-        for(int i = 0; i < scores.Count; i++){
-            if(scores[i] > highestScore){
-                 recordMost++;
-                 highestScore = scores[i];
+        int maxRecord = 0;
+        int minRecord = 0;
+        foreach(var score in scores)
+        {
+            if(score > maxScore)
+            {
+                maxScore = score;
+                maxRecord++;
+            }    
+            if(score < minScore)
+            {
+                minScore = score;
+                minRecord++;
             }
         }
-        
-        for(int i = 0; i< scores.Count; i++){
-            if(scores[i] < lowestScore){
-                recordLeast++;
-                lowestScore = scores[i];
-            }
-        }
-        List<int> algorithmResult = new List<int>();
-        algorithmResult.Add(recordMost);
-        algorithmResult.Add(recordLeast);
-        return algorithmResult;
+        var resultList = new List<int>(){maxRecord,minRecord};
+        return resultList;
     }
 
 }
