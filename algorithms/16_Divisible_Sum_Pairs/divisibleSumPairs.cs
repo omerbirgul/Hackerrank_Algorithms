@@ -27,20 +27,16 @@ class Result
 
     public static int divisibleSumPairs(int n, int k, List<int> ar)
     {
-        int dividible = 0;
-        List<int> newList = new List<int>(ar);
-        
-        for(int i = 0; i < ar.Count; i++){
-            newList.Remove(ar[i]);
-            for(int j = 0; j<newList.Count; j++){
-                int sum = ar[i] + newList[j];
-                if(sum % k == 0){
-                    dividible++;
-                }
+        int count = 0;
+        for(int i = 0; i < n; i++)
+        {
+            for(int j = i + 1; j < n; j++)
+            {
+                int condition = ar[i] + ar[j];
+                if(condition % k == 0) count++;
             }
         }
-        return dividible;
-        
+        return count;
     }
 
 }
