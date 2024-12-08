@@ -24,18 +24,16 @@ class Result
 
     public static int findDigits(int n)
     {
-        int divisor = 0;
-        char[] digitArray = n.ToString().ToCharArray();
-        foreach(char digit in digitArray)
+        int count = 0;
+        int originalNumber = n;
+        
+        while(n != 0)
         {
-            int digitValueByInt = int.Parse(digit.ToString());
-            if(digitValueByInt != 0 && n % digitValueByInt == 0)
-            {
-                divisor++;
-            }
+            int digit = n % 10;
+            if( digit > 0 && originalNumber % digit == 0) count++;
+            n /= 10;
         }
-        return divisor;
-
+        return count;
     }
 
 }

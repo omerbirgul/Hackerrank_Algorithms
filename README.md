@@ -14,6 +14,7 @@
 | 0012 | [Beautiful Days At The Movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem) | [beautifulDaysAtTheMovies.cs](./algorithms/12_Beautiful_Days_at_the_Movies/beautifulDaysAtTheMovies.cs) |
 | 0013 | [Breaking The Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem) | [breakingTheRecords.cs](./algorithms/13_Breaking_The_Records/breakingTheRecords.cs) |
 | 0014 | [Cats and Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem) | [catsAndMouse.cs](./algorithms/14_Cats_And_Mouse/catsAndMouse.cs) |
+| 0015 | [Find Digits](https://www.hackerrank.com/challenges/find-digits/problem) | [findDigits.cs](./algorithms/15_Find_Digits/findDigits.cs) |
 | 0031 | [Angry Professor](https://www.hackerrank.com/challenges/angry-professor/problem) | [angryProfessor.cs](./algorithms/31_Angry_Professor/angryProfessor.cs) |
 | 0032 | [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem) | [timeConversion.cs](./algorithms/32_Time_Conversion/timeConversion.cs) |
 | 0033 | [Subarray Division](https://www.hackerrank.com/challenges/the-birthday-bar/problem) | [subarrayDivision.cs](./algorithms/33_Subarray_Division/subarrayDivision.cs) |
