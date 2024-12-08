@@ -16,19 +16,9 @@ class Solution {
 
     // Complete the catAndMouse function below.
     static string catAndMouse(int x, int y, int z) {
-        int xTOz = Math.Abs(x - z);
-        int yTOz = Math.Abs(y - z);
-        
-        if(xTOz < yTOz){
-            return "Cat A";
-        }
-        else if(yTOz < xTOz){
-            return "Cat B";
-        }
-        else{
-            return "Mouse C";
-        }
-        
+        if(Math.Abs(x - z) > Math.Abs(y -z)) return "Cat B";
+        else if(Math.Abs(y - z) > Math.Abs(x - z)) return "Cat A";
+        else return "Mouse C";
 
 
     }
