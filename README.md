@@ -21,3 +21,4 @@
 | 0033 | [Subarray Division](https://www.hackerrank.com/challenges/the-birthday-bar/problem) | [subarrayDivision.cs](./algorithms/33_Subarray_Division/subarrayDivision.cs) |
 | 0034 | [Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem) | [migratoryBirds.cs](./algorithms/34_Migratory_Birds/migratoryBirds.cs) |
 | 0035 | [Jumping On The Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem) | [jumpingOnTheClouds.cs](./algorithms/35_Jumping_OnThe_Clouds/jumpingOnTheClouds.cs) |
+| 0036 | [Library Fine](https://www.hackerrank.com/challenges/library-fine/problem) | [libraryFine.cs](./algorithms/36_Library_Fine/libraryFine.cs) |
